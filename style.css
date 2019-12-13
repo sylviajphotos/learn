@@ -1,1 +1,8 @@
-
+body {
+    color: blue;
+    background-color: rgb(73, 233, 206);
+    text-align: center;
+}
+img {
+    width: 75%;
+} 
